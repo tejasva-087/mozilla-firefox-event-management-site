@@ -32,7 +32,7 @@
 @media (max-width: 43.75em) {
   .hero-section {
     height: 75vh;
-    clip-path: polygon(0% 0%, 100% 0%, 100% 70%, 0% 100%);
+    clip-path: polygon(0% 0%, 100% 0%, 100% 90%, 0% 100%);
   }
   .hero-main {
     grid-template-columns: 1fr;
