@@ -58,7 +58,10 @@ function HeroSection() {
           </li>
           <li className="nav-item">
             <img src={youtube} alt="youtube logo" className="icon" />
-            <a href="https://discord.com/invite/3a2J53fN" className="nav-link">
+            <a
+              href="https://youtube.com/channel/UCpjSQPsGfRA4BdyTmic6Ofg"
+              className="nav-link"
+            >
               Youtube
             </a>
           </li>
