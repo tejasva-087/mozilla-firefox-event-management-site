@@ -7,14 +7,9 @@ So, How this is going to work is being described in following steps:
 
 - Navigate to the Events.json file present in the src folder
 - Add / remove / modify any of the object that look something line this
-
-    -{
-        -"event": "Dummy event",
-        -"date": "8 Feb 2023",
-        -"description": "This is just for explanation purpose how these events got added here because in the Event.json file there is a object for each event and           -if you add other objects in that json file present in the src folder and then commit those changes you can see that those automatically get reflected on          -the site.",
-        -"registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeu8dev2_qNJ_MCoDL310I4Y538gK8gkFC_28dHZ4xtl1yM3g/viewform?usp=send_form"
-    -}
-
+- {
+--"event": "Dummy event"
+-}
 - After editing the object commit the changes.
 - wait for 2-3min and there you go the changes will be reflected on the site.
 
