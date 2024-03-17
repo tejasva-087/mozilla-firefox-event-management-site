@@ -1,0 +1,64 @@
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  overflow-x: hidden;
+}
+
+@media (max-width: 62.5em) {
+  html {
+    font-size: 50%;
+  }
+}
+
+@media (max-width: 50em) {
+  html {
+    font-size: 43.75%;
+  }
+}
+
+body {
+  line-height: 1;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.6rem;
+  font-weight: 400;
+  overflow-x: hidden;
+}
+
+.margin-bottom-sml {
+  margin-bottom: 1.2rem;
+}
+
+.margin-bottom-mid {
+  margin-bottom: 1.8rem;
+}
+
+.margin-bottom-big {
+  margin-bottom: 5.4rem;
+}
+
+@media (max-width: 43.75em) {
+  .margin-bottom-big {
+    margin-bottom: 2.4rem;
+  }
+}
+
+.text {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.text-big {
+  font-size: 2.4rem;
+}
+
+.icon {
+  width: 2.4rem;
+}
