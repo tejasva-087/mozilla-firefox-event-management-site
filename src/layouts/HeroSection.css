@@ -86,7 +86,7 @@
 
   .hero-section {
     padding: 2.4rem 0 12.4rem;
-    height: auto;
+    height: 80vh;
   }
   .nav-list {
     display: grid;
