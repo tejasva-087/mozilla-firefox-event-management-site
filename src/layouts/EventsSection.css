@@ -94,12 +94,12 @@
   }
 
   .register {
-    width: 40%;
+    width: 45%;
   }
 }
 
 @media (max-width: 21.875em) {
   .register {
-    width: 55%;
+    width: 60%;
   }
 }
