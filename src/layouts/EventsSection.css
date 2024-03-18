@@ -60,6 +60,7 @@
   align-items: center;
   justify-content: center;
   gap: 0.8rem;
+  border-radius: 0.4rem;
 }
 
 .register-link:link,
