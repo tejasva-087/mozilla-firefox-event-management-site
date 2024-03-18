@@ -62,3 +62,7 @@ body {
 .icon {
   width: 2.4rem;
 }
+
+.text-center {
+  text-align: center;
+}

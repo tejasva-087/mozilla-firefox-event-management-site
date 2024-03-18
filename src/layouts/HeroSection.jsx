@@ -12,9 +12,11 @@ function HeroSection() {
     <div className="hero-section">
       <div className="hero-main margin-bottom-sml">
         <img src={firefox} alt="Mozilla firefox club logo" className="img" />
-        <h1 className="heading-primary">Mozilla Firefox Club</h1>
+        <h1 className="heading-primary text-center">Mozilla Firefox Club</h1>
       </div>
-      <p className="margin-bottom-big text ">VIT Bhopal University</p>
+      <p className="margin-bottom-big text text-center">
+        VIT Bhopal University
+      </p>
       <nav className="nav-bar">
         <ul className="nav-list">
           <li className="nav-item">

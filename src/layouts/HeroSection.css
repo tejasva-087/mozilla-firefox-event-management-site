@@ -99,10 +99,6 @@
 }
 
 @media (max-width: 21.875em) {
-  .heading-primary {
-    text-align: center;
-  }
-
   .nav-list {
     grid-template-columns: 1fr;
   }
