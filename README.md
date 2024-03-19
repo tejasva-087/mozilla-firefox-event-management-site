@@ -18,6 +18,9 @@ So, How this is going to work is being described in following steps:
 - After editing the object commit the changes.
 - wait for 2-3min and there you go the changes will be reflected on the site.
 
+### You can view the demonstration as well from the link below:
+https://www.linkedin.com/posts/tejasva-khandelwal_hey-there-people-i-am-happy-to-present-to-activity-7175748085589893122-dq_4?utm_source=share&utm_medium=member_desktop
+
 
 ## How I made this project
 Hi, I am Tejasav Khandelwal. I used react to create this project. As react was new to me I watched tutorials and tried to create this application. The knowledge of javascript helped me a lot. I tried my best to make this project. I hope you like it
