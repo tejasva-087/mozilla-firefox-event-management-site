@@ -21,6 +21,9 @@ So, How this is going to work is being described in following steps:
 ### You can view the demonstration as well from the link below:
 https://www.linkedin.com/posts/tejasva-khandelwal_hey-there-people-i-am-happy-to-present-to-activity-7175748085589893122-dq_4?utm_source=share&utm_medium=member_desktop
 
+### Live site
+https://mozilla-firefox-club-vit-bhopal.netlify.app/
+
 
 ## How I made this project
 Hi, I am Tejasav Khandelwal. I used react to create this project. As react was new to me I watched tutorials and tried to create this application. The knowledge of javascript helped me a lot. I tried my best to make this project. I hope you like it
